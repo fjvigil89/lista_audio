@@ -1,0 +1,6 @@
+data/*.wav
+data/**/*.wav
+data/**/**/*.wav
+data/**/**/**/*.wav
+
+*.tar
